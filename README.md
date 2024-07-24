@@ -14,7 +14,7 @@
 
 🔗 Clone the repo by using this link
 ```bash
-git clone https://github.com/Walterlyy/DefenderX-
+git clone https://github.com/Walterlyy/DefenderX-Nuker-
 ```
 
 ♦ Open the project in your teminal
