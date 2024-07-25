@@ -64,13 +64,13 @@ def print_logo():
 
    ██╗    ██╗ █████╗ ██╗  ████████╗███████╗██████╗ 
    ██║    ██║██╔══██╗██║  ╚══██╔══╝██╔════╝██╔══██╗
-   ██║ █╗ ██║███████║██║     ██║   █████╗  ██████╔╝.     By Walter Papa
+   ██║ █╗ ██║███████║██║     ██║   █████╗  ██████╔╝.     By Walter
    ██║███╗██║██╔══██║██║     ██║   ██╔══╝  ██╔══██╗
    ╚███╔███╔╝██║  ██║███████╗██║   ███████╗██║  ██║
    ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚═╝   ╚══════╝╚═╝  ╚═╝
                                                 
 
-    > discord.gg/cordreapers'''
+    > discord.gg/byteclub'''
     b = Colorate.Vertical(Colors.DynamicMIX((Col.green, Col.light_green, Col.yellow)), Center.XCenter(banner))
     # Write.Print(text=banner, interval=0.0005, color=Colors._)
     print(b)
