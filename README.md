@@ -9,7 +9,7 @@
 - Fast Multi Token raider
 - Discord Token Nuker
 
-## Significance 
+# Significance 
 
 A Discord server nuker is a tool or script designed to rapidly and extensively disrupt or delete content within a Discord server. It often involves actions such as deleting channels, roles, and messages. Its significance lies in its power to cause substantial damage or chaos within a server, often used maliciously or as a form of cyber attack. It's crucial to use such tools responsibly and ethically, considering the potential harm they can cause to communities and individual users.
 
