@@ -854,7 +854,7 @@ async def tokenTools():
                                 p = req.post(url=f'https://discord.com/api/channels/{channel}/webhooks',
                                             headers={
                                                 "Authorization": tokens()[0],
-                                                "X-Audit-Log-Reason": "Atomic Nuker",
+                                                "X-Audit-Log-Reason": "DefenderX Nuker",
                                             },
                                             json={"name": "DefenderX Nuker"})
                                 # print(p.json())
